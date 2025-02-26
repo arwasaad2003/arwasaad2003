@@ -1,7 +1,3 @@
-# My Links
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/abdelrahman-eid-9083711bb)
-- 👤 [Facebook](https://www.facebook.com/abdo.sebak.79)
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
