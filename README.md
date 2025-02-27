@@ -54,7 +54,6 @@
 
 <p > <img src="https://github-readme-stats.vercel.app/api?username=arwasaad2003&show_icons=true&theme=radical" alt="arwasaad2003" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arwasaad2003&label=Profile%20views&color=0e75b6&style=flat" alt="arwasaad2003" /> </p>
 
 
 
