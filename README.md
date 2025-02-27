@@ -58,7 +58,18 @@
 
 
 <!------->
+# Social Profiles 🌐
 
+Here are my social profiles and links:
+
+- **LinkedIn**: [🔗 Visit LinkedIn](www.linkedin.com/in/arwa-ibrahim-72382722a)  
+  Connect with me professionally.
+
+- **Kaggle**: [💻 Visit Kaggle](https://www.kaggle.com/arwaibrahim203)  
+  Explore my projects and repositories.
+
+- **Portfolio**: [🏠 Visit Portfolio](https://arwasaaa2003.github.io/my-portfolio/)  
+  Check out my portfolio for more about my work.
 
 
 <!--
