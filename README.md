@@ -24,7 +24,7 @@
 ### Connect with Me :
 <p align="left">
 <a href="https://www.linkedin.com/in/arwa-ibrahim-72382722a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arwasaad2003" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/arwaibrahim203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arwaibrahim203" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/arwaibrahim203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arwaibrahim203" height="30" width="40" /></a>
 <a href="https://arwasaad2003.github.io/my-portfolio" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Website.svg" alt="MY Portfolio" height="60" width="100" /></a>
 
